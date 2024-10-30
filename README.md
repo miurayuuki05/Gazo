@@ -1,7 +1,3 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
 ## Setup
 
 Make sure to install dependencies:
@@ -56,20 +52,9 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+## Changelogs
 
-```bash
-# npm
-npm run preview
+ - 30/10/2024
+ Create a basic canvas with grayscale filter as an example, create simple shape (square) to be added, add image file upload to be added to the canvas, make the item inside canvas to be draggable
 
-# pnpm
-pnpm preview
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
